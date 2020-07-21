@@ -1,2 +1,2 @@
-# fuck
-ver very fuck program
+# Hello
+ver very Hello program
